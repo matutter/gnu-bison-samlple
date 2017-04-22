@@ -13,9 +13,12 @@ Run `make clean run` in the repository root to clean, compile, and run the sampl
 
 
 ### Sample Input    
-This input should yield `49`   
+This input should yield `49` run `main.o test/sample.input` to try. 
 ```
+one := 1
+two := 2
 three := 3
 seven := one + two * three
-seven * seven
+var := seven * seven
+(var + var) / 2
 ```
