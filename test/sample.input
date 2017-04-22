@@ -1,3 +1,6 @@
+one := 1
+two := 2
 three := 3
 seven := one + two * three
-seven * seven
+var := seven * seven
+(var + var) / 2
