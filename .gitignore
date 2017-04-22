@@ -1,0 +1,20 @@
+# flex and bison artifacts
+*.yy.hh
+*.yy.cc
+*.tab.cc
+*.tab.hh
+*.tab.bison
+*.output
+position.hh
+location.hh
+stack.hh 
+
+# compile artifacts
+*.so
+*.os
+*.o
+
+# misc
+*.bak
+*.BAK
+
